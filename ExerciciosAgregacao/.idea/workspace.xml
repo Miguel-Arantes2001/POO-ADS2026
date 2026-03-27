@@ -4,22 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="945df8d4-4169-4329-baf5-c59748c15eec" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExerciciosAgregacao.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/biblioteca/Emprestimo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/biblioteca/Leitor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/biblioteca/Livro.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/biblioteca/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cineTeatro/Filme.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cineTeatro/Ingresso.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cineTeatro/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cineTeatro/Sessao.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/clinicaMedica/Consulta.java" beforeDir="false" />
-    </list>
+    <list default="true" id="945df8d4-4169-4329-baf5-c59748c15eec" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,7 +18,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
